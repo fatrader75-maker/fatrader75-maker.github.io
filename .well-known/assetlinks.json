@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.fatrader75_maker.twa",
+        "sha256_cert_fingerprints": ["B6:9F:1F:25:95:E9:81:24:59:AB:48:8A:6C:D2:DA:64:31:2C:FF:28:F6:7A:6D:54:47:E2:45:EE:DD:D0:55:64"]
+      }
+    }]
